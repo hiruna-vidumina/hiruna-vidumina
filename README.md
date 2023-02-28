@@ -13,8 +13,21 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 🎓 I'm a B.Sc. Eng. Hons. undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa, Sri Lanka](https://uom.lk/)<br/>
 👀 I’m interested in Telecommunication, Cyber Security, Internet of Things (IoT), and Networking.<br/>
 
+## Skills 🛠
 
-## GitHub Stats
+***Languages***
+
+<p> 
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/python.svg"></code>
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/matlab.svg"></code>
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/c.svg"></code>
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/cPlusPlus.svg"></code>
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/Java.svg"></code>
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/dart.svg"></code>
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/verilog.svg"></code>
+</p>
+
+## GitHub Stats ⚙️
 
 <a href="https://github.com/hiruna-vidumina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiruna-vidumina&show_icons=true&theme=vue-dark&count_private=true" alt="Hiruna's GitHub Stats" />
