@@ -18,13 +18,13 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 ***Languages***
 
 <p> 
-<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/python.svg"></code>
-<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/matlab.svg"></code>
-<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/c.svg"></code>
-<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/cPlusPlus.svg"></code>
-<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/java.svg"></code>
-<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/Dart.svg"></code>
-<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/Verilog.svg"></code>
+<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/python.svg"></code>
+<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/matlab.svg"></code>
+<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/c.svg"></code>
+<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/cPlusPlus.svg"></code>
+<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/java.svg"></code>
+<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/Dart.svg"></code>
+<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/Verilog.svg"></code>
 </p>
 
 ## GitHub Stats ⚙️
