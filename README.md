@@ -32,15 +32,17 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 <p>
 <code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/visualStudioCode.svg"></code>
 <code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/pycharm.svg"></code>
-<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/solidworksSM.svg"></code>
 <code><img height="40" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png"></code>
 <code><img height="40" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"></code>
-<code><img height="40" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code>
-
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Atmel_logo_svg.svg"></code>
+<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/flutter.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png"></code>
 <code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/NodeRedLogo.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 </p>
+
+
 ## GitHub Stats ⚙️
 
 <a href="https://github.com/hiruna-vidumina">
