@@ -1,18 +1,18 @@
 ### Hey there! I'm Hiruna Vidumina 👋
-
+<div align="center">
 <p align="center">
     <a href="https://twitter.com/@hiru__vidu"><img src="https://img.shields.io/badge/-Twitter-2D2B55?style=flat-square&logo=twitter&logoColor=white"/></a>
     <a href="https://linkedin.com/in/hiruna-vidumina"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 <br/>
-
+</div>
 ## About me 👨🏻‍💻
-
+<div align="center">
 A dedicated, responsible, hardworking individual who hopes to utilize his own skills, capabilities, knowledge, and experience in achieving organizational goals as an adaptable team player. A personality with a positive attitude, good communication skills, the readiness to accept challenges, and the passion to dig deep into something with high interest in the telecommunications, cyber security, Internet of things, and networking-related areas.
-
+</div>
 🎓 I'm a B.Sc. Eng. Hons. undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa, Sri Lanka](https://uom.lk/)<br/>
 👀 I’m interested in Telecommunication, Cyber Security, Internet of Things (IoT), and Networking.<br/>
-
+<div align="center">
 ## Skills 🛠
 
 ***Languages***
@@ -49,7 +49,8 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
 </p>
-
+</div>
+<div align="center">
 ## GitHub Stats ⚙️
 
 <a href="https://github.com/hiruna-vidumina">
@@ -59,4 +60,4 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiruna-vidumina&" alt="Hiruna" /></p>
 </div>
-<div align="center">
+
