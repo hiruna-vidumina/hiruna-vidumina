@@ -10,7 +10,7 @@
 
 A dedicated, responsible, hardworking individual who hopes to utilize his own skills, capabilities, knowledge, and experience in achieving organizational goals as an adaptable team player. A personality with a positive attitude, good communication skills, the readiness to accept challenges, and the passion to dig deep into something with high interest in the telecommunications, cyber security, Internet of things, and networking-related areas.
 
-🎓 I'm a B.Sc. Eng. Hons. undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa, Sri Lanka](https://uom.lk/)<br/>
+🎓 I'm a B.Sc. Eng. Hons. undergraduate of [Electronic and Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa, Sri Lanka](https://uom.lk/)<br/>
 👀 I’m interested in Telecommunication, Cyber Security, Internet of Things (IoT), and Networking.<br/>
 
 ### 🛠 Skills 
