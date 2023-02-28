@@ -41,6 +41,11 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 </p>
 
+***Frameworks***
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
 
 ## GitHub Stats ⚙️
 
