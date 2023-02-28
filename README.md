@@ -22,9 +22,9 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 <code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/matlab.svg"></code>
 <code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/c.svg"></code>
 <code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/cPlusPlus.svg"></code>
-<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/java.svg"></code>
-<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/Dart.svg"></code>
-<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/Verilog.svg"></code>
+<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/JavaSM.svg"></code>
+<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/dart.png"></code>
+<code><img height="40" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/verilogSM.svg"></code>
 </p>
 
 ## GitHub Stats ⚙️
