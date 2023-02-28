@@ -22,9 +22,9 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 <code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/matlab.svg"></code>
 <code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/c.svg"></code>
 <code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/cPlusPlus.svg"></code>
-<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/Java.svg"></code>
-<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/dart.svg"></code>
-<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/verilog.svg"></code>
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/java.svg"></code>
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/Dart.svg"></code>
+<code><img height="40" src="https://github.com/AqeelMuhammad/AqeelMuhammad/blob/main/Logos/Verilog.svg"></code>
 </p>
 
 ## GitHub Stats ⚙️
