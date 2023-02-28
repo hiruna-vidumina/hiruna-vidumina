@@ -4,7 +4,8 @@
     <a href="https://twitter.com/@hiru__vidu"><img src="https://img.shields.io/badge/-Twitter-2D2B55?style=flat-square&logo=twitter&logoColor=white"/></a>
     <a href="https://linkedin.com/in/hiruna-vidumina"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
-## 👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me
+
 A dedicated, responsible, hardworking individual who hopes to utilize his own skills, capabilities, knowledge, and experience in achieving organizational goals as an adaptable team player. A personality with a positive attitude, good communication skills, the readiness to accept challenges, and the passion to dig deep into something with high interest in the telecommunications, cyber security, Internet of things, and networking-related areas.
 
 🎓 I'm a B.Sc. Eng. Hons. undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa, Sri Lanka](https://uom.lk/)<br/>
