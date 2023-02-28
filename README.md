@@ -57,3 +57,6 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruna-vidumina&theme=vue-dark&layout=compact" 
     alt="Hiruna GitHub Top Languages" />
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiruna-vidumina&" alt="Hiruna" /></p>
+</div>
+<div align="center">
