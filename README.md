@@ -9,12 +9,12 @@
 ### 👨🏻‍💻 About me
 <div align="center">
 A dedicated, responsible, hardworking individual who hopes to utilize his own skills, capabilities, knowledge, and experience in achieving organizational goals as an adaptable team player. A personality with a positive attitude, good communication skills, the readiness to accept challenges, and the passion to dig deep into something with high interest in the telecommunications, cyber security, Internet of things, and networking-related areas.
-</div>
+
 🎓 I'm a B.Sc. Eng. Hons. undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa, Sri Lanka](https://uom.lk/)<br/>
 👀 I’m interested in Telecommunication, Cyber Security, Internet of Things (IoT), and Networking.<br/>
-<div align="center">
+</div>
 ### 🛠 Skills 
-
+<div align="center">
 ***Languages***
 
 <p> 
@@ -50,9 +50,9 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
 </p>
 </div>
-<div align="center">
-### ⚙️ GitHub Stats
 
+### ⚙️ GitHub Stats
+<div align="center">
 <a href="https://github.com/hiruna-vidumina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiruna-vidumina&show_icons=true&theme=vue-dark&count_private=true" alt="Hiruna's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruna-vidumina&theme=vue-dark&layout=compact" 
