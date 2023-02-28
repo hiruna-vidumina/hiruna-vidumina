@@ -1,4 +1,4 @@
-### Hey there! I'm Hiruna 👋
+### Hey there! I'm Hiruna Vidumina 👋
 
 <p align="center">
     <a href="https://twitter.com/@hiru__vidu"><img src="https://img.shields.io/badge/-Twitter-2D2B55?style=flat-square&logo=twitter&logoColor=white"/></a>
