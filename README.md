@@ -14,14 +14,14 @@
   <a href="https://www.hackerrank.com/hirunavidumina" target="_blank" rel="noreferrer"> <img alt=Hiruna Vidumina's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
 </div>
 
-### 👨🏻‍💻 About me
+## 👨🏻‍💻 About me
 
 A dedicated, responsible, hardworking individual who hopes to utilize his own skills, capabilities, knowledge, and experience in achieving organizational goals as an adaptable team player. A personality with a positive attitude, good communication skills, the readiness to accept challenges, and the passion to dig deep into something with high interest in the telecommunications, cyber security, Internet of things, and networking-related areas.
 
 🎓 I'm a B.Sc. Eng. Hons. undergraduate of [Electronic and Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa, Sri Lanka](https://uom.lk/)<br/>
 👀 I’m interested in Telecommunication, Cyber Security, Internet of Things (IoT), and Networking.<br/>
 
-### 🛠 Skills 
+## 🛠 Skills 
   
 ***Languages***
 
@@ -59,12 +59,49 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 </p>
 </div>
 
-### ⚙️ GitHub Stats
-<div align="center">
-<a href="https://github.com/hiruna-vidumina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiruna-vidumina&show_icons=true&theme=vue-dark&count_private=true" alt="Hiruna's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruna-vidumina&theme=vue-dark&layout=compact" 
-    alt="Hiruna GitHub Top Languages" />
-</a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiruna-vidumina&" alt="Hiruna" /></p>
-</div>
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-hiruna-vidumina.vercel.app/api?username=hiruna-vidumina&hide_border=true&show_icons=true&count_private=true" alt="Hiruna Vidumina's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-hiruna-vidumina.vercel.app/api/top-langs/?username=hiruna-vidumina&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=hiruna-vidumina&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Hiruna Vidumina's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>
+
+<!--
+<table>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiruna-vidumina&theme=default" alt="Hiruna Vidumina's Profile Details" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiruna-vidumina&theme=default" alt="Top Languages by Repo" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiruna-vidumina&theme=default" alt="Top Languages by Commit" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiruna-vidumina&theme=default" alt="Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hiruna-vidumina&theme=default&utcOffset=8" alt="Commits" /> </a>
+    </td>
+  </tr>
+</table>
+-->
+
+[![Trophies](https://github-profile-trophy-hiruna-vidumina.vercel.app/?username=hiruna-vidumina&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
