@@ -104,4 +104,4 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 </table>
 -->
 
-[![Trophies](https://github-profile-trophy-hiruna-vidumina.vercel.app/?username=hiruna-vidumina&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=hiruna-vidumina&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
