@@ -65,7 +65,7 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true&count_private=true" alt="Aras Güngöre's GitHub Stats" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true&count_private=true" alt="Hiruna Vidumina's GitHub Stats" /> </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=hiruna-vidumina&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
@@ -82,23 +82,23 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 <table>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiruna-vidumina&theme=default" alt="Hiruna Vidumina's Profile Details" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arasgungore&theme=default" alt="Hiruna Vidumina's Profile Details" /> </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiruna-vidumina&theme=default" alt="Top Languages by Repo" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arasgungore&theme=default" alt="Top Languages by Repo" /> </a>
     </td>
     <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiruna-vidumina&theme=default" alt="Top Languages by Commit" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arasgungore&theme=default" alt="Top Languages by Commit" /> </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiruna-vidumina&theme=default" alt="Stats" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arasgungore&theme=default" alt="Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hiruna-vidumina&theme=default&utcOffset=8" alt="Commits" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arasgungore&theme=default&utcOffset=8" alt="Commits" /> </a>
     </td>
   </tr>
 </table>
