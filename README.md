@@ -47,7 +47,8 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 <code><img height="30" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/flutter.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png"></code>
 <code><img height="30" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/NodeRedLogo.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg"></code>
 </p>
 
 ***Frameworks***
