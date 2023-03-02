@@ -30,7 +30,7 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 <code><img height="30" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/matlab.svg"></code>
 <code><img height="30" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/c.svg"></code>
 <code><img height="30" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/cPlusPlus.svg"></code>
-<code><img height="30" src="[https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/JavaSM.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="30" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/dart.png"></code>
 <code><img height="30" src="https://github.com/hiruna-vidumina/hiruna-vidumina/blob/main/Logos/verilogSM.svg"></code>
 </p>
