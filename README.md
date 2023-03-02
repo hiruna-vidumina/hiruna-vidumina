@@ -1,10 +1,18 @@
 ### Hey there! I'm Hiruna Vidumina 👋
 
-<p align="center">
-    <a href="https://twitter.com/@hiru__vidu"><img src="https://img.shields.io/badge/-Twitter-2D2B55?style=flat-square&logo=twitter&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/hiruna-vidumina"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</p>
-<br/>
+## 📇 Social & Contact
+
+<div align="left">
+  <a href="mailto:hirunavidumina@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://hirunavidumina.github.io" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hiruna-vidumina" target="_blank" rel="noreferrer"> <img alt="Hiruna Vidumina's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://github.com/hiruna-vidumina" target="_blank" rel="noreferrer"> <img alt="Hiruna Vidumina's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/hirunavidumina" target="_blank" rel="noreferrer"> <img alt=Hiruna Vidumina's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
+</div>
 
 ### 👨🏻‍💻 About me
 
