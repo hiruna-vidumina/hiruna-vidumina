@@ -65,10 +65,10 @@ A dedicated, responsible, hardworking individual who hopes to utilize his own sk
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-hiruna-vidumina.vercel.app/api?username=hiruna-vidumina&hide_border=true&show_icons=true&count_private=true" alt="Hiruna Vidumina's GitHub Stats" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=hiruna-vidumina&hide_border=true&show_icons=true&count_private=true" alt="Hiruna Vidumina's GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-hiruna-vidumina.vercel.app/api/top-langs/?username=hiruna-vidumina&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=hiruna-vidumina&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
     </td>
   </tr>
   <tr>
